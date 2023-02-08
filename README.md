@@ -34,6 +34,12 @@ I find Code Katas are a great way to keep the axe sharp, and to prepare for tech
 * [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 * [Bank OCR](https://code.joejag.com/coding-dojo/bank-ocr/)
 
+### Other Coding Practice
+
+* [Project Euler](https://projecteuler.net/archives)
+* [Codewars](https://www.codewars.com/)
+* [Exercism](https://exercism.org/)
+
 ### Twitch/YouTube Streams
 
 Another resource for helping keep your skills sharp are coding streams on Twitch and YouTube.
