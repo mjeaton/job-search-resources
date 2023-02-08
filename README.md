@@ -2,6 +2,10 @@
 
 Over the years, I've collected some good resources for job searching and interview prep. While I'm **NOT** looking right now, I have friends who are, so I wanted to share this list. If you have something to add, please submit a PR!
 
+## Random advice
+
+* During your job search, pay for LinkedIn Premium if for no other reason than you can see who is viewing your profile! It also gives you access to LinkedIn Learning, and believe it or not, there are some solid courses!
+
 ## Interview Prep
 
 ### Videos
