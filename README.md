@@ -26,6 +26,21 @@ Over the years, I've collected some good resources for job searching and intervi
 * [Microsoft Interview for Software Engineers: 10 Questions You Can Expect (non-tech)](https://www.youtube.com/watch?v=B0u7Lp2olyo)
 * [10 Most asked questions in Microsoft Interviews in 2020](https://www.youtube.com/watch?v=oDbrVVYDXwU)
 
+### Code Katas
+
+I find Code Katas are a great way to keep the axe sharp, and to prepare for interviews.
+
+* [CodeKata](http://codekata.com/)
+* [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+* [Bank OCR](https://code.joejag.com/coding-dojo/bank-ocr/)
+
+### Twitch/YouTube Streams
+
+Another resource for helping keep your skills sharp are coding streams on Twitch and YouTube.
+
+* [Brendan Enrick / DevChatter Twitch](https://www.twitch.tv/devchatter)
+* [Brendan Enrick / DevChatter YouTube](https://www.youtube.com/devchatter)
+
 ## Job Searching
 
 ### Recruiters
