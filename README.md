@@ -10,7 +10,9 @@ Over the years, I've collected some good resources for job searching and intervi
 ## Interview Prep
 
 ### Posts
+
 * [How to have a better interview ](https://samestuffdifferentday.net/2022/01/26/interviewing-tips/)
+* [Guides and Cheat Sheets from Taylor Desseyn](https://resources.vaco.com/taylor-desseyn-free-guides)
 
 ### Videos
 
