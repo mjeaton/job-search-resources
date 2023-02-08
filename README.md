@@ -28,7 +28,7 @@ Over the years, I've collected some good resources for job searching and intervi
 
 ### Code Katas
 
-I find Code Katas are a great way to keep the axe sharp, and to prepare for interviews.
+I find Code Katas are a great way to keep the axe sharp, and to prepare for technical interviews.
 
 * [CodeKata](http://codekata.com/)
 * [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)
