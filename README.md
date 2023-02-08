@@ -50,3 +50,14 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 ### Companies
 
 * [Careers at Microsoft](https://careers.microsoft.com/us/en)
+
+### Job Boards
+
+* [Diversify Tech](https://www.diversifytech.com/job-board)
+* [Indeed](https://www.indeed.com/)
+* [LinkedIn - Jobs](https://www.linkedin.com/jobs/)
+* [Glassdoor - Jobs](https://www.glassdoor.com/Job/index.htm)
+
+### Other Sources
+
+* [#TechIsHiring](https://twitter.com/TechIsHiring)
