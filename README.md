@@ -40,6 +40,7 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 
 * [Brendan Enrick / DevChatter Twitch](https://www.twitch.tv/devchatter)
 * [Brendan Enrick / DevChatter YouTube](https://www.youtube.com/devchatter)
+* [Jeff Fritz / CSharpFritz on Twitch](https://www.twitch.tv/csharpfritz)
 
 ## Job Searching
 
