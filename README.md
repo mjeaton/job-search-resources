@@ -25,3 +25,10 @@ Over the years, I've collected some good resources for job searching and intervi
 
 ## Job Searching
 
+### Recruiters
+
+* [Taylor Desseyn](https://www.vaco.com/taylor/)
+
+### Companies
+
+* [Careers at Microsoft](https://careers.microsoft.com/us/en)
