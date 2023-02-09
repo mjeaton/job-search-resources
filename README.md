@@ -1,6 +1,6 @@
 # Job Search and Interview Prep Resources for Developers
 
-Over the years, I've collected some good resources for job searching and interview prep. While I'm **NOT** looking right now, I have friends who are, so I wanted to share this list. If you have something to add, please submit a PR!
+Over the years, I've collected some good resources for job searching and interview prep. While I'm **NOT** looking right now, I have friends who are, so I wanted to share this list. If you have something to add, please submit a PR or add an Issue and I'll get it added ASAP.
 
 ## Random advice
 
