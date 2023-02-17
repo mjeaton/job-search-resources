@@ -71,3 +71,4 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [Dan Croitor - take your pick of his videos - they're all good!](https://www.youtube.com/c/DanCroitor/featured)
 * [Microsoft Interview for Software Engineers: 10 Questions You Can Expect (non-tech)](https://www.youtube.com/watch?v=B0u7Lp2olyo)
 * [10 Most asked questions in Microsoft Interviews in 2020](https://www.youtube.com/watch?v=oDbrVVYDXwU)
+* [Second Job Interview Tips to pass your interview](https://www.youtube.com/watch?v=6EpTcWo5GrA)
