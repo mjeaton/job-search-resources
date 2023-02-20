@@ -54,12 +54,13 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [Brendan Enrick / DevChatter YouTube](https://www.youtube.com/devchatter)
 * [Jeff Fritz / CSharpFritz on Twitch](https://www.twitch.tv/csharpfritz)
 
-## Interview Prep
+## Resumes and Interview Prep
 
 ### Posts
 
 * [How to have a better interview ](https://samestuffdifferentday.net/2022/01/26/interviewing-tips/)
 * [Guides and Cheat Sheets from Taylor Desseyn](https://resources.vaco.com/taylor-desseyn-free-guides)
+* [Why you shouldn’t put your street address on your resume](https://www.globalnerdy.com/2022/10/03/why-you-shouldnt-put-your-street-address-on-your-resume/)
 
 ### Videos
 
