@@ -2,6 +2,8 @@
 
 Over the years, I've collected some good resources for job searching and interview prep. While I'm **NOT** looking right now, I have friends who are, so I wanted to share this list. If you have something to add, please submit a PR or add an Issue and I'll get it added ASAP.
 
+Wondering if you should stay or quit? Check out [this great video by Tim Corey](https://www.youtube.com/watch?v=012u-528CxM&t=1s).
+
 ## Random advice
 
 * Be active on [LinkedIn](https://www.linkedin.com/).
