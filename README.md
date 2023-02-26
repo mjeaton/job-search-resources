@@ -63,6 +63,7 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [How to have a better interview ](https://samestuffdifferentday.net/2022/01/26/interviewing-tips/)
 * [Guides and Cheat Sheets from Taylor Desseyn](https://resources.vaco.com/taylor-desseyn-free-guides)
 * [Why you shouldn’t put your street address on your resume](https://www.globalnerdy.com/2022/10/03/why-you-shouldnt-put-your-street-address-on-your-resume/)
+* [Avoid These 10 Blunders In Your Next Coding Interview](https://dev.to/codewithvoid/avoid-these-10-blunders-in-your-next-coding-interview-1f7i)
 
 ### Videos
 
