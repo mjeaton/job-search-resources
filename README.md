@@ -67,6 +67,7 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [30 Interview Questions for a Database Administrator and Developer ](https://www.sqltact.com/2023/02/30-interview-questions-for-database.html)
 * [How to create an outstanding resume - Part 1](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-create-an-outstanding-resume-part-1/ba-p/3746252)
 * [How to create an outstanding resume - Part 2](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-create-an-outstanding-resume-part-2/ba-p/3753829)
+* [Job Interview Advice for Junior Developers](https://thenewstack.io/job-interview-advice-for-junior-developers/)
 
 ### Videos
 
