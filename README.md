@@ -64,6 +64,9 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [Guides and Cheat Sheets from Taylor Desseyn](https://resources.vaco.com/taylor-desseyn-free-guides)
 * [Why you shouldn’t put your street address on your resume](https://www.globalnerdy.com/2022/10/03/why-you-shouldnt-put-your-street-address-on-your-resume/)
 * [Avoid These 10 Blunders In Your Next Coding Interview](https://dev.to/codewithvoid/avoid-these-10-blunders-in-your-next-coding-interview-1f7i)
+* [30 Interview Questions for a Database Administrator and Developer ](https://www.sqltact.com/2023/02/30-interview-questions-for-database.html)
+* [How to create an outstanding resume - Part 1](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-create-an-outstanding-resume-part-1/ba-p/3746252)
+* [How to create an outstanding resume - Part 2](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-create-an-outstanding-resume-part-2/ba-p/3753829)
 
 ### Videos
 
