@@ -81,3 +81,4 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [10 Most asked questions in Microsoft Interviews in 2020](https://www.youtube.com/watch?v=oDbrVVYDXwU)
 * [Second Job Interview Tips to pass your interview](https://www.youtube.com/watch?v=6EpTcWo5GrA)
 * [Never say or do this in a job interview](https://www.youtube.com/shorts/-8imb5K_SOU)
+* [7 Common Reasons WHY You'll Fail Your Job Interview](https://www.youtube.com/watch?v=cRki3dfkrYU)
