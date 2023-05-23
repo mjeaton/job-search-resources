@@ -84,3 +84,4 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [Never say or do this in a job interview](https://www.youtube.com/shorts/-8imb5K_SOU)
 * [7 Common Reasons WHY You'll Fail Your Job Interview](https://www.youtube.com/watch?v=cRki3dfkrYU)
 * [Talks to watch before a job interview](https://www.ted.com/playlists/352/talks_to_watch_before_a_job_interview)
+* [10 Myths about JOB Interviews that JUST Aren't TRUE](https://www.youtube.com/watch?v=DSU8CfIZx5g)
