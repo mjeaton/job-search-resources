@@ -15,7 +15,7 @@ Wondering if you should stay or quit? Check out [this great video by Tim Corey](
 
 ### Recruiters
 
-* [Taylor Desseyn](https://www.vaco.com/taylor/)
+* Know of any good recruiters that belong here? Let me know!
 
 ### Companies
 
