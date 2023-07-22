@@ -47,6 +47,8 @@ I find Code Katas are a great way to keep the axe sharp, and to prepare for tech
 * [Project Euler](https://projecteuler.net/archives)
 * [Codewars](https://www.codewars.com/)
 * [Exercism](https://exercism.org/)
+* [Ruby Koans](https://www.rubykoans.com/) and on [GitHub](https://github.com/edgecase/ruby_koans)
+* [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 ### Twitch/YouTube Streams
 
