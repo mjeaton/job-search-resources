@@ -27,6 +27,7 @@ Wondering if you should stay or quit? Check out [this great video by Tim Corey](
 * [Indeed](https://www.indeed.com/)
 * [LinkedIn - Jobs](https://www.linkedin.com/jobs/)
 * [Glassdoor - Jobs](https://www.glassdoor.com/Job/index.htm)
+* [Dice - Jobs](https://www.dice.com/jobs)
 
 ### Other Sources
 
@@ -49,6 +50,7 @@ I find Code Katas are a great way to keep the axe sharp, and to prepare for tech
 * [Exercism](https://exercism.org/)
 * [Ruby Koans](https://www.rubykoans.com/) and on [GitHub](https://github.com/edgecase/ruby_koans)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Hackerrank Interview Prep](https://www.hackerrank.com/interview/preparation-kits)
 
 ### Twitch/YouTube Streams
 
