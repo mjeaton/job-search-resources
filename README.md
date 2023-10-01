@@ -73,6 +73,7 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [How to create an outstanding resume - Part 2](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-create-an-outstanding-resume-part-2/ba-p/3753829)
 * [Job Interview Advice for Junior Developers](https://thenewstack.io/job-interview-advice-for-junior-developers/)
 * [My Favorite Books for Coding Interviews](https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j)
+* [Questions I asked as .NET interviewer](https://steven-giesel.com/blogPost/d64172d0-6b72-4d60-9935-0159c72997e4)
 
 ### Videos
 
