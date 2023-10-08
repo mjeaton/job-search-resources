@@ -60,6 +60,10 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [Brendan Enrick / DevChatter YouTube](https://www.youtube.com/devchatter)
 * [Jeff Fritz / CSharpFritz on Twitch](https://www.twitch.tv/csharpfritz)
 
+### Open Source Projects
+
+* [Up for grabs!](https://up-for-grabs.net/#/) - Explore open source projects and jump in!
+
 ## Resumes and Interview Prep
 
 ### Posts
