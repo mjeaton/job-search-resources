@@ -8,7 +8,7 @@ Wondering if you should stay or quit? Check out [this great video by Tim Corey](
 
 * Be active on [LinkedIn](https://www.linkedin.com/).
 * During your job search, pay for LinkedIn Premium if for no other reason than you can see who is viewing your profile! It also gives you access to LinkedIn Learning, and believe it or not, there are some solid courses!
-* As difficult as it can be, try to be nice to recruiters. You NEVER when or how they'll be able to help you.
+* As difficult as it can be, try to be nice to recruiters. You NEVER know when or how they'll be able to help you.
 * Create a blog on your own domain, or if that's not an option, write on a platform like Medium. Get your ideas and knowledge out there!
 
 ## Job Searching
