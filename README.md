@@ -28,6 +28,7 @@ Wondering if you should stay or quit? Check out [this great video by Tim Corey](
 * [LinkedIn - Jobs](https://www.linkedin.com/jobs/)
 * [Glassdoor - Jobs](https://www.glassdoor.com/Job/index.htm)
 * [Dice - Jobs](https://www.dice.com/jobs)
+* [OkJob - 4 Day Week Jobs](https://www.okjob.io/)
 
 ### Other Sources
 
