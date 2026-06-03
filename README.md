@@ -33,6 +33,7 @@ Wondering if you should stay or quit? Check out [this great video by Tim Corey](
 ### Other Sources
 
 * [#TechIsHiring](https://twitter.com/TechIsHiring)
+* [FoundRole](https://www.foundrole.com)
 
 ## Keeping Your Skills Sharp
 
