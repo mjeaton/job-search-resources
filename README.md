@@ -76,6 +76,7 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [Why you shouldn’t put your street address on your resume](https://www.globalnerdy.com/2022/10/03/why-you-shouldnt-put-your-street-address-on-your-resume/)
 * [Avoid These 10 Blunders In Your Next Coding Interview](https://dev.to/codewithvoid/avoid-these-10-blunders-in-your-next-coding-interview-1f7i)
 * [30 Interview Questions for a Database Administrator and Developer ](https://www.sqltact.com/2023/02/30-interview-questions-for-database.html)
+* [AI Resume ATS Score Checker](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/ai-resume-ats-score-checker.html) - Compare your resume summary against a target job description to identify keyword gaps and rewrite priorities before applying.
 * [How to create an outstanding resume - Part 1](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-create-an-outstanding-resume-part-1/ba-p/3746252)
 * [How to create an outstanding resume - Part 2](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-create-an-outstanding-resume-part-2/ba-p/3753829)
 * [Job Interview Advice for Junior Developers](https://thenewstack.io/job-interview-advice-for-junior-developers/)
