@@ -69,6 +69,10 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 
 ## Resumes and Interview Prep
 
+### Tools
+
+* [ResumeAI](https://withresumeai.com/) - Free ATS resume checker + AI resume builder. Also [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) (portal-verified ATS share across large employers).
+
 ### Posts
 
 * [How to have a better interview ](https://samestuffdifferentday.net/2022/01/26/interviewing-tips/)
