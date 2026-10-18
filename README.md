@@ -30,6 +30,7 @@ Wondering if you should stay or quit? Check out [this great video by Tim Corey](
 * [Dice - Jobs](https://www.dice.com/jobs)
 * [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) - Daily-updated Canadian student/recent-grad tech jobs, including internships, co-ops, junior, and new-grad roles.
 * [OkJob - 4 Day Week Jobs](https://www.okjob.io/)
+* [DMtheFounder](https://dmthefounder.com/) - Free board of early engineering and founding roles posted by startup founders on X and Hacker News.
 
 ### Other Sources
 
