@@ -69,6 +69,10 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 
 ## Resumes and Interview Prep
 
+### Tools
+
+* [JobEmerge](https://www.jobemerge.work) - AI career copilot with job-fit analysis, resume translation in 19 languages, Markdown resume editing, text-based mock interviews, and application tracking.
+
 ### Posts
 
 * [How to have a better interview ](https://samestuffdifferentday.net/2022/01/26/interviewing-tips/)
