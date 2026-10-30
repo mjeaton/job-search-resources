@@ -81,6 +81,7 @@ Another resource for helping keep your skills sharp are coding streams on Twitch
 * [Job Interview Advice for Junior Developers](https://thenewstack.io/job-interview-advice-for-junior-developers/)
 * [My Favorite Books for Coding Interviews](https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j)
 * [Questions I asked as .NET interviewer](https://steven-giesel.com/blogPost/d64172d0-6b72-4d60-9935-0159c72997e4)
+* [Can an ATS read columns, tables and text boxes? One resume tested in 7 layouts](https://hiretop.com/blog/can-ats-read-columns-tables-text-boxes/)
 
 ### Videos
 
