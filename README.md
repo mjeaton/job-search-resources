@@ -54,6 +54,7 @@ I find Code Katas are a great way to keep the axe sharp, and to prepare for tech
 * [Ruby Koans](https://www.rubykoans.com/) and on [GitHub](https://github.com/edgecase/ruby_koans)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Hackerrank Interview Prep](https://www.hackerrank.com/interview/preparation-kits)
+* [Nyrion](https://nyrion.ai) - AI-assisted coding interview practice
 
 ### Twitch/YouTube Streams
 
