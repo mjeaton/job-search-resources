@@ -30,6 +30,7 @@ Wondering if you should stay or quit? Check out [this great video by Tim Corey](
 * [Dice - Jobs](https://www.dice.com/jobs)
 * [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) - Daily-updated Canadian student/recent-grad tech jobs, including internships, co-ops, junior, and new-grad roles.
 * [OkJob - 4 Day Week Jobs](https://www.okjob.io/)
+* [caio.pro](https://caio.pro/) - AI leadership roles, including Head and VP of AI. Free to browse; featured placements are paid.
 
 ### Other Sources
 
